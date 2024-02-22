@@ -1,0 +1,11 @@
+Exercícios
+
+1 - receba 3 notas e faça a média e mostre para o usuário se está aprovado, reprovado ou de exame;
+
+2 - Receba um número e retorne pro usuário se é par ou impar;
+
+3 - receba a idade do usuário e retorne o ano do nascimento;
+
+4 - Faça uma função de conte de 0 a 10 com laços de repetição;
+
+5 - receba números do usuário até que ele digite 0 (dica: use while)
