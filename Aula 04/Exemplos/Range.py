@@ -1,0 +1,1 @@
+print(list(range(3))) #Saída: [0, 1, 2]
